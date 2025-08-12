@@ -1,6 +1,6 @@
 # Calendario em Linguagem M
 
- Calendario criado através da linguagem M no PowerQuery contendo 32 campos
+ Calendario criado através da linguagem M no PowerQuery contendo 32 colunas
  
  - Data
  - Tempo 
